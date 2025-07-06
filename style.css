@@ -137,7 +137,7 @@ body{
     background-color: #252525;
 }
 .spotifyPlaylist .card img{
-    width: 100%;
+  width: 80%;
     object-fit: contain;
 }
 .card{
